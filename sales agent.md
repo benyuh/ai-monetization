@@ -81,6 +81,8 @@
 ## 5. 创新点
 
 ### 5.1 竞价/拍卖/计费
+<img width="1282" height="430" alt="image" src="https://github.com/user-attachments/assets/0a5f9bc9-b145-4754-8c99-fc3d0b634cc6" />
+
 
 | 点 | 位置 | 谁负责预估 | 备注 |
 |---|---|---|---|
